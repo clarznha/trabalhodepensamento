@@ -1,13 +1,13 @@
 header {
     background-color: blue;
     color: black;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
     margin:0 1.5cm;
 }
 section{
     margin:0 1.5cm;
-    font-size: 16px;
+    font-size: 20px;
     color: black;
     background-color:bisque;
     text-align: justify;
